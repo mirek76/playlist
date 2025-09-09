@@ -7,10 +7,10 @@ RMF Classic	http://195.150.20.242:8000/rmf_classic	0	classical
 Polskie Radio Dwójka	http://mp3.polskieradio.pl:8902/	0	classical
 CHILLOUT PIANO by Epic Piano	https://stream.epic-piano.com/chillout-piano?ref=radiobrowser	0	chillout
 Otto's Baroque music	http://strm112.1.fm/baroque_mobile_aac	0	baroque
-France Musique Classique Plus	http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac	0	aac
+France Musique Classique Plus	http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac	0	classic
 ROMANTIC PIANO by Epic Piano	https://stream.epic-piano.com/romantic-piano?ref=radiobrowser	0	classic
 Sonatica Classical Radio	http://orion.shoutca.st:8742/160	0	classical
-Opus 94 (Ciudad de México) - 94.5 FM 	http://s2.mexside.net/8016/stream	0	94.5
+Opus 94 (Ciudad de México) - 94.5 FM	http://s2.mexside.net/8016/stream	0	classic
 0nlineradio VIVALDI	https://stream.0nlineradio.com/vivaldi?ref=radiobrowser	0	classic
 Radio Caprice - Opera	http://79.120.39.202:8000/opera	0	classical
 Classical King FM - Evergreen Channel	https://classicalking.streamguys1.com/evergreen-aac-128k	0	classical
@@ -22,7 +22,7 @@ EPIC CLASSICAL - Classical Background Music	https://stream.epic-classical.com/cl
 1000 HITS Classical	https://ais-sa2.cdnstream1.com/2208_128.mp3	0	classical
 EPIC CLASSICAL - Classical Chillout	https://stream.epic-classical.com/classical-chillout?ref=liveradio	0	ambient
 EPIC CLASSICAL - Classical Romance	https://stream.epic-classical.com/classical-romance	0	chillout
-RNZ Concert AAC 	http://radionz-ice.streamguys.com/Concert_aac128	0	classical
+RNZ Concert AAC	http://radionz-ice.streamguys.com/Concert_aac128	0	classical
 Radio Art - Baroque	http://air.radioart.com/fBaroque.mp3	0	baroque
 Radio Caprice - Chamber Classical	http://213.141.131.10:8000/chamber	0	chamber
 EPIC CLASSICAL - Classical Hotel Lounge	https://stream.epic-classical.com/classical-hotel-lounge	0	ambient
@@ -42,4 +42,4 @@ Onic Movies	https://live.onic.ie/stream-movies?_=55552	0	movie scores
 Radio Swiss Classic German	http://stream.srg-ssr.ch/m/rsc_de/mp3_128	0	classical
 KLASSIK 1	http://icepool.silvacast.com/KLASSIK1.mp3	0	classical
 Concertzender Oude Muziek	http://streams.greenhost.nl:8080/oudemuziek	0	baroque
-Polskie Radio Chopin	http://stream3.polskieradio.pl:8910/;	0	
+Polskie Radio Chopin	http://stream3.polskieradio.pl:8910/;	0	chopin
