@@ -119,7 +119,7 @@ MC Radio	https://stream4.nadaje.com:8625/mcradio	0
 Radio Gra	https://rs103-krk-cyfronet.rmfstream.pl/radio_gra	0	
 Radio Fama	https://stream4.nadaje.com:13771	0	
 Super FM	http://stream.super.fm:8000/superfm.mp3	0	
-Radio Norda FM	http://94.177.253.77:8001/relay_mp3_128	0	
+Radio Norda FM	http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8	0	
 Twoja Polska Stacja	https://sluchaj2.radiopark.biz.pl:8443/twojapolskastacja	0	
 Pop Radio	https://sluchaj.link:5443/popradio	0	
 Radio Bon Ton	http://streaming.inten.pl:8022/bonton.mp3	0	
