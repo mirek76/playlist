@@ -7,7 +7,7 @@ Radio ZET	https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01	0
 Radio Plus	https://waw.ic.smcdn.pl/4070-1.mp3	0	
 Radio Złote Przeboje	https://radiostream.pl/tuba8914-1.mp3	0	
 Radio ESKA	https://waw.ic.smcdn.pl/2070-1.mp3	0	
-Radio Kraków	https://stream3.nadaje.com:9117/radiokrakow	0	
+Radio Kraków	http://stream3.nadaje.com:9128/radiokrakow	0	
 Radio Vox FM	https://waw.ic.smcdn.pl/3990-1.mp3	0	
 RMF Classic	http://rs203-krk.rmfstream.pl/rmf_classic	0	
 Antyradio	https://an02.cdn.eurozet.pl/ant-web.mp3	0	
@@ -23,48 +23,48 @@ Radio Tok FM	https://radiostream.pl/tuba10-1.mp3	0
 Radio Pogoda	https://radiostream.pl/tuba139-1.mp3	0	
 Radio 357	https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0	0	
 Radio Nowy Świat	https://stream.rcs.revma.com/ypqt40u0x1zuv	0	
-Rock Radio Polska	https://radiostream.pl/tuba9000-1.mp3	0	
-RMF - 50s	https://rs101-krk.rmfstream.pl/50S	0	
+Rock Radio	https://radiostream.pl/tuba9000-1.mp3	0	
+RMF - 50s	http://rs101-krk.rmfstream.pl/50S	0	
 RMF - 70s	http://195.150.20.5:8000/rmf_70s	0	
-RMF - 70s Disco	https://rs102-krk.rmfstream.pl/rmf_70s_disco	0	
-RMF - 80s	https://rs9-krk2-cyfronet.rmfstream.pl/80S	0	
-RMF - 80s Disco	https://rs202-krk-cyfronet.rmfstream.pl/rmf_80s_disco	0	
+RMF - 70s Disco	http://rs102-krk.rmfstream.pl/rmf_70s_disco	0	
+RMF - 80s	http://rs9-krk2-cyfronet.rmfstream.pl/80S	0	
+RMF - 80s Disco	http://rs202-krk-cyfronet.rmfstream.pl/rmf_80s_disco	0	
 RMF - 90s	http://31.192.216.5:8000/rmf_90s	0	
-RMF - 90s Dance	https://rs6-krk2.rmfstream.pl/rmf_90s_dance	0	
-RMF - 2000s	https://rs6-krk2.rmfstream.pl/rmf_2000	0	
-RMF - 2010s	https://rs6-krk2.rmfstream.pl/rmf_2010	0	
+RMF - 90s Dance	http://rs6-krk2.rmfstream.pl/rmf_90s_dance	0	
+RMF - 2000s	http://rs6-krk2.rmfstream.pl/rmf_2000	0	
+RMF - 2010s	http://rs6-krk2.rmfstream.pl/rmf_2010	0	
 RMF - 35 LAT	http://rmfstream2.interia.pl:8000/rmf_20lat	0	
-RMF - Ballady	https://rs101-krk-cyfronet.rmfstream.pl/rmf_nostalgia	0	
+RMF - Ballady	http://rs101-krk-cyfronet.rmfstream.pl/rmf_nostalgia	0	
 RMF - Beatle Mania	http://217.74.72.10:8000/rmf_beatlemania	0	
-RMF - Chillout	https://rs102-krk-cyfronet.rmfstream.pl/rmf_chillout	0	
-RMF - Dance	https://rs6-krk2.rmfstream.pl/rmf_dance	0	
-RMF - Dance RnB	https://rs6-krk2.rmfstream.pl/rmf_4	0	
+RMF - Chillout	http://rs102-krk-cyfronet.rmfstream.pl/rmf_chillout	0	
+RMF - Dance	http://rs6-krk2.rmfstream.pl/rmf_dance	0	
+RMF - Dance RnB	http://rs6-krk2.rmfstream.pl/rmf_4	0	
 RMF - Fitness	http://195.150.20.242:8000/rmf_fitness	0	
-RMF - Fitness Rock	https://rs6-krk2.rmfstream.pl/rmf_fitness_rock	0	
-RMF - Francais	https://rs102-krk-cyfronet.rmfstream.pl/rmf_francais	0	
-RMF - Vibe	https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk	0	
-RMF - Game Music	https://rs6-krk2.rmfstream.pl/rmf_gamemusic	0	
-RMF - Gold	https://rs201-krk-cyfronet.rmfstream.pl/rmf_gold	0	
-RMF - Grunge	https://rs6-krk2.rmfstream.pl/rmf_grunge	0	
+RMF - Fitness Rock	http://rs6-krk2.rmfstream.pl/rmf_fitness_rock	0	
+RMF - Francais	http://rs102-krk-cyfronet.rmfstream.pl/rmf_francais	0	
+RMF - Vibe	http://rs101-krk-cyfronet.rmfstream.pl/rmf_funk	0	
+RMF - Game Music	http://rs6-krk2.rmfstream.pl/rmf_gamemusic	0	
+RMF - Gold	http://rs201-krk-cyfronet.rmfstream.pl/rmf_gold	0	
+RMF - Grunge	http://rs6-krk2.rmfstream.pl/rmf_grunge	0	
 RMF - Hard And Heavy	http://rmfstream2.interia.pl:8000/rmf_hard_heavy	0	
 RMF - Hip Hop	http://rmfstream1.interia.pl:8000/rmf_hip_hop	0	
 RMF - Hot New	http://rmfstream2.interia.pl:8000/rmf_hot_new	0	
 RMF - Kolędy	http://195.150.20.5:8000/rmf_koledy	0	
-RMF - Latino	https://rs101-krk-cyfronet.rmfstream.pl/rmf_latino	0	
-RMF - Love	https://rs6-krk2.rmfstream.pl/rmf_love	0	
-RMF - Muzyka Klasyczna	https://rs6-krk2.rmfstream.pl/rmf_muzyka_klasyczna	0	
-RMF - Niezapomniane Przeboje	https://rs9-krk2-cyfronet.rmfstream.pl/NIEZAPOMNIANEMELODIE	0	
-RMF - Party	https://rs201-krk-cyfronet.rmfstream.pl/rmf_party	0	
-RMF - Piosenka Filmowa	https://rs103-krk-cyfronet.rmfstream.pl/rmf_piosenka_filmowa	0	
-RMF - Piosenka Literacka	https://rs101-krk.rmfstream.pl/rmf_piosenka_literacka	0	
-RMF - Polska Prywatka	https://rs203-krk-cyfronet.rmfstream.pl/rmf_polska_prywatka	0	
-RMF - Polski Rock	https://rs6-krk2.rmfstream.pl/rmf_polski_rock	0	
+RMF - Latino	http://rs101-krk-cyfronet.rmfstream.pl/rmf_latino	0	
+RMF - Love	http://rs6-krk2.rmfstream.pl/rmf_love	0	
+RMF - Muzyka Klasyczna	http://rs6-krk2.rmfstream.pl/rmf_muzyka_klasyczna	0	
+RMF - Niezapomniane Przeboje	http://rs9-krk2-cyfronet.rmfstream.pl/NIEZAPOMNIANEMELODIE	0	
+RMF - Party	http://rs201-krk-cyfronet.rmfstream.pl/rmf_party	0	
+RMF - Piosenka Filmowa	http://rs103-krk-cyfronet.rmfstream.pl/rmf_piosenka_filmowa	0	
+RMF - Piosenka Literacka	http://rs101-krk.rmfstream.pl/rmf_piosenka_literacka	0	
+RMF - Polska Prywatka	http://rs203-krk-cyfronet.rmfstream.pl/rmf_polska_prywatka	0	
+RMF - Polski Rock	http://rs6-krk2.rmfstream.pl/rmf_polski_rock	0	
 RMF - Polskie Przeboje	http://rmfstream1.interia.pl:8000/rmf_polskie_przeboje	0	
-RMF - PRL	https://rs6-krk2.rmfstream.pl/rmf_prl	0	
-RMF - Relaks	https://rs203-krk.rmfstream.pl/rmf_relaks	0	
-RMF - Smooth Jazz	https://rs203-krk.rmfstream.pl/rmf_smooth_jazz	0	
-RMF - Szanty	https://rs101-krk-cyfronet.rmfstream.pl/rmf_szanty	0	
-RMF - W Pracy	https://rs6-krk2.rmfstream.pl/rmf_w_pracy	0	
+RMF - PRL	http://rs6-krk2.rmfstream.pl/rmf_prl	0	
+RMF - Relaks	http://rs203-krk.rmfstream.pl/rmf_relaks	0	
+RMF - Smooth Jazz	http://rs203-krk.rmfstream.pl/rmf_smooth_jazz	0	
+RMF - Szanty	http://rs101-krk-cyfronet.rmfstream.pl/rmf_szanty	0	
+RMF - W Pracy	http://rs6-krk2.rmfstream.pl/rmf_w_pracy	0	
 RMF - Cuba	http://rmfstream2.interia.pl:8000/rmf_cuba	0	
 ESKA - Do Pracy	https://ic2.smcdn.pl/6140-1.mp3	0	
 ESKA - Impreska	https://waw.ic.smcdn.pl/6030-1.mp3	0	
@@ -75,7 +75,7 @@ ESKA Rock - Klasyka Rocka	https://waw.ic.smcdn.pl/6070-1.mp3	0
 ESKA Rock - Rock Ballads	https://waw.ic.smcdn.pl/6010-1.mp3	0	
 ESKA Rock - Teraz Polski Rock	https://waw.ic.smcdn.pl/6090-1.mp3	0	
 ESKA - Hity na Czasie	https://waw.ic.smcdn.pl/2980-1.mp3	0	
-Antyradio - Classic Rock	https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5	0	
+Antyradio - Classic Rock	http://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5	0	
 Antyradio - Covers	https://an03.cdn.eurozet.pl/ANTCOV.mp3	0	
 Antyradio - Greatest	https://an03.cdn.eurozet.pl/ANTGRE.mp3	0	
 Antyradio - Made in Poland	https://an03.cdn.eurozet.pl/ANTPOL.mp3	0	
@@ -95,8 +95,8 @@ Radio Rekord	https://stream4.nadaje.com:8309/ostrowiec	0
 Radio Mega	https://stream.rcs.revma.com/q18ty3qhwzzuv	0	
 Radio Disco	https://stream.rcs.revma.com/cvswvmyewzzuv	0	
 Radio Nuta	https://stream.rcs.revma.com/0004tehdxzzuv	0	
-Weekend FM	https://stream.weekendfm.pl/weekendfm_najlepsza	0	
-Radio Jard	http://online.jard.pl:8744/jard1	30	
+Weekend FM	http://stream.weekendfm.pl/weekendfm_najlepsza	0	
+Radio Jard	http://online.jard.pl:8744/jard1	0	
 Radio Centrum	http://shot4.inten.pl:8888/rcfm.mp3	0	
 Radio Fara	http://62.133.128.22:8000/;	0	
 Twoje Radio	http://65.ip-51-77-59.eu:8100/stream.mp3	0	
@@ -136,3 +136,97 @@ Radio ONY	https://stream.rcs.revma.com/yxv344rra2zuv	0
 Radio Italo4You	https://ssl-1.radiohost.pl:8018/stream	0	
 Radio Afera	https://radio.afera.com.pl/afera128.mp3	0	
 Radio Jutrzenka	http://stream4.nadaje.com:12854/test	0	
+Polskie Radio Rzeszów	https://streaming.g-news.pl:8040/rzeszow	0	
+Polskie Radio Olsztyn	https://rostr1.radioolsztyn.pl:8843/RO	0	
+Polskie Radio Koszalin	http://s0.radiohost.pl:9680/;	0	
+Polskie Radio Lublin	http://streaming.radio.lublin.pl:8000/32k	0	
+Polskie Radio Zachód	http://stream4.nadaje.com:10121/rz-20kbps.aac	0	
+Polskie Radio Białystok	http://stream4.nadaje.com:15476/radiobialystok	0	
+Polskie Radio Katowice	https://stream4.nadaje.com:9213/radiokatowice	0	
+Polskie Radio Chicago - Muzyczne Radio	https://usa20.fastcast4u.com:1920/;	0	
+Polskie Radio Rytm	https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8	0	
+Polskie Radio Elbląg	https://rostr1.radioolsztyn.pl:8843/ELBLAG	0	
+Polskie Radio USA - CA AZ	https://usa8.fastcast4u.com/proxy/s09?mp=/1	0	
+Polskie Radio USA - DJ Party	https://usa8.fastcast4u.com/proxy/s02?mp=/1	0	
+Polskie Radio USA - DJ Show	https://usa8.fastcast4u.com/proxy/s01?mp=/1	0	
+Polskie Radio USA - Floryda	https://usa8.fastcast4u.com/proxy/s20?mp=/1	0	
+Polskie Radio USA - Koncertowo	https://usa8.fastcast4u.com/proxy/s05?mp=/1	0	
+Polskie Radio Poznań	http://stream4.nadaje.com:8578/poznan	0	
+Radio Wielkopolska	http://217.182.76.63:8000/webstream	0	
+Radio Mbox - Polska Muzyka	https://s3.slotex.pl:7072/stream	0	polish
+Radio Max Hit Polska	http://s3.slotex.pl:7370/stream	0	disco polo
+Radio Łódź	http://217.113.224.171/RadioLodz-1-HQ.aac	0	
+Off Radio Krakow	http://stream4.nadaje.com:13332/offradiokrakow	0	
+Radio Gorzów	http://stream02.radiogorzow.pl:10115/	0	
+Radio Warszawa 106.2	https://stream2.technologicznie.net/radio_warszawa.mp3	0	catholic radio
+Radio Omega	http://radio.el-stacja.pl:8000/radio_omega.ogg	0	
+1.FM - Polska FM	http://strmreg.1.fm/polskafm_mobile_mp3	0	
+El-Stacja	http://radio.el-stacja.pl:8000/elstacja320.ogg	0	
+Polskie Radio Kielce	https://streaming.g-news.pl:8030/rk2	0	
+Radio Kaszëbë	http://stream4.nadaje.com:10124/kaszebe128	0	
+Radio Warmii i Mazur	https://rostr1.radioolsztyn.pl:8543/RWiM	0	
+Radio Elka	http://live.elka.pl:8000/jarocin	0	
+Katolickie Radio Podlasie	http://s1.slotex.pl:7038/	0	
+Radio Fiat	https://s3.slotex.pl/shoutcast/7284/stream?sid=1	0	
+Radio Nadzieja	https://stream2.technologicznie.net/radio_nadzieja.mp3	0	
+Radio Opole 2	https://audio.radio.opole.pl/ro2aac	0	
+Radio Opole	http://dab.radio.opole.pl:8035/1	0	
+Polskie Radio Gdańsk	http://streaming.task.gda.pl:8000/rg1	0	
+Polskie Radio Szczecin	http://stream4.nadaje.com:11986/prs	0	
+Radio Doxa	https://stream6.nadaje.com:8127/doxa	0	
+Radio Emaus	http://stream.radioemaus.pl:8000/mp3stream	0	
+Katolickie Radio Zamość	https://stream.rcs.revma.com/0n8y7mxcay8uv	0	
+Via - Katolickie Radio Rzeszów	http://rvia.ostnet.pl:8040/;	0	
+Radio Bielsko	https://stream.rcs.revma.com/062uq3z3kwzuv	0	
+Radio Express FM	https://stream.rcs.revma.com/yx6cub73kwzuv	0	
+Radio Głos	http://87.204.92.180:8000/;	0	
+Trendy Radio	https://stream.trendyradio.pl/h	0	
+Radio 5	http://streaming.radio5.com.pl:8880/radio5_suwalki	0	
+Radio Piekary	https://go-audio.toya.net.pl/813	0	
+Katolickie Radio Ciechanów FM	https://s1.slotex.pl:7762/;	0	
+Radio Ziemi Wieluńskiej	https://stream2.nadaje.com:8023/;stream	0	
+Radio Sud	http://stream2.nadaje.com:8012/	0	
+Radio Akadera	http://stream4.nadaje.com:11846/akadera	0	
+Radio Płońsk	https://sluchaj.link:5443/plonsk	0	
+Radio Silesia	https://s1.slotex.pl/shoutcast/7926/stream	0	
+Radio Lem FM	https://stream.radiojar.com/2fa0gbhr9bhvv	0	
+Radio Impuls	https://srv0.streamradiowy.eu/radioimpuls?1600739101	0	
+Radio Andrychów	http://s1.slotex.pl:7424/;	0	
+Radio Kołobrzeg	https://go-audio.toya.net.pl/250	0	
+Radio Kujawy	http://radio.kujawy.info:9940/;	0	
+Radio Nakło	http://sluchaj2.107i5.fm:10750/;	0	
+Radio Rodzina Diecezji Kaliskiej	https://eu6.fastcast4u.com/proxy/radiorodzina?mp=/1	0	
+Radio RSC	http://stream.rcs.revma.com/94fud6a6z72vv	0	
+Radio Sochaczew	https://stream.radiosochaczew.pl/;	0	
+Radio UWM FM	http://213.184.18.156:8000/	0	
+Akademickie Radio Index	https://stream.wzielonej.pl/radio/8000/1	0	
+Radio Zielona Góra	http://stream01.rzg.pl:10107/test	0	
+Radio Ostrowiec	http://s1.slotex.pl:7050/;	0	
+Radio Radom	http://stream6.nadaje.com:15292/radioradompl	0	
+Radio Gniezno	http://stream3.nadaje.com:8012/;	0	
+Radio Plock FM	https://stream.rcs.revma.com/6qvcy46wmc9uv	0	
+Radio Q 100,7FM - Lokalne radio z Kutna	http://79.188.161.82:8020/;stream.mp3	0	
+Radio Malbork	http://stream3.nadaje.com:9022/	0	
+Radio Kampus	https://stream.radiokampus.fm/kampus	0	
+Radio Opatów	http://stream2.nadaje.com:11144/;	0	
+Radio Tczew	http://195.191.180.5:8000/live	0	
+Radio Żuławy	https://stream.radiojar.com/q87xmtvrrg8uv	0	
+Radio Starogard	https://stream.rcs.revma.com/5wegfyrra2zuv	0	
+Studenckie Radio Żak	http://emisja.radio17.pl:8000/R17	0	
+Radio Sudety 24	http://stream4.nadaje.com:15006/sudety24	0	
+Radio Twoje Lipsko	https://s1.slotex.pl:7298/TYTUŁ	0	
+Radio Żnin	http://stream4.nadaje.com:8052/;	0	
+Inne Radio	http://s3.slotex.pl:7004/;?type=http&nocache=93	0	
+Radio CCM	https://streaming.live365.com/a16565	0	
+Radio Zawiercie	http://gra.radiowom.pl:9078/;	0	
+Radio 1.7	https://emisja.radio17.pl/R17	0	
+Radio 4 Music	https://s1.slotex.pl:7102/;	0	
+Radio 4 You	http://s0.radiohost.pl:10000/;	0	
+Radio 40plus	https://s1.slotex.pl:7178/listen.xtl	0	
+Radio 80	https://listen.radioking.com/radio/180148/stream/221857	0	
+Radio 92.9	https://radio.929.lu/aac	0	
+Radio Armageddon	https://ssl-1.radiohost.pl:11608/;	0	
+Radio Awangarda	https://s1.slotex.pl/shoutcast/7870/stream	0	
+Radio Baobab	http://stream.radiobaobab.pl:8000/radiobaobab.mp3	0	
+Radio Bercik - Śląsk	https://s3.slotex.pl:7770/;	0	
+Radio Republika	https://ssl-1.radiotvrepublika.pl:12698/stream	0	news
