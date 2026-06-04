@@ -1,45 +1,59 @@
-Classic Vinyl HD	https://icecast.walmradio.com:8443/classic	0	1930
+Classic Vinyl HD	https://icecast.walmradio.com:8443/classic	0	
 WALM 2 HD Opus	https://icecast.walmradio.com:8443/walm2_opus	0	choral
 Rai Radio Classica Filodiffusione	http://icestreaming.rai.it/5.mp3	0	classical
-Classical  FM 97.7	http://59.120.88.155:8000/live.mp3	0	classical music
+Your Classical Radio	https://ycradio.stream.publicradio.org/ycradio.mp3	0	classical music
+Your Classical Radio - Celebrate the Maestro	https://celebratethemaestro.stream.publicradio.org/celebratethemaestro.mp3	0	
+Your Classical Radio - Pixel & Plot	https://pixelplot.stream.publicradio.org/pixelplot.mp3	0	
+Your Classical Radio - Sleep	https://lullabies.stream.publicradio.org/lullabies.mp3	0	
+Your Classical Radio - Essentials	https://favorites.stream.publicradio.org/favorites.mp3	0	
+Your Classical Radio - Relax	https://relax.stream.publicradio.org/relax.mp3	0	
+Your Classical Radio - Concert Band	https://concertband.stream.publicradio.org/concertband.mp3	0	
+Your Classical Radio - Peaceful Piano	https://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3	0	
+Your Classical Radio - Chamber Music	https://chambermusic.stream.publicradio.org/chambermusic.mp3	0	
+Your Classical Radio - Guitar	https://guitar.stream.publicradio.org/guitar.mp3	0	
+Your Classical Radio - Children	https://classicalkids.stream.publicradio.org/classicalkids.mp3	0	
 Radio Kraków Kultura	https://stream3.nadaje.com:9119/radiokrakow	0	classical baroque
 RMF Classic	http://195.150.20.242:8000/rmf_classic	0	classical
 Polskie Radio Dwójka	http://mp3.polskieradio.pl:8902/	0	classical
-CHILLOUT PIANO by Epic Piano	https://stream.epic-piano.com/chillout-piano?ref=radiobrowser	0	chillout
-Otto's Baroque music	http://strm112.1.fm/baroque_mobile_aac	0	baroque
+Epic Piano - Chillout Piano	https://stream.epic-piano.com/chillout-piano?ref=radiobrowser	0	chillout
+Epic Piano - Romantic Piano	https://stream.epic-piano.com/romantic-piano?ref=radiobrowser	0	classic
+Otto's Baroque Music	http://strm112.1.fm/baroque_mobile_aac	0	baroque
 France Musique Classique Plus	http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac	0	classic
-ROMANTIC PIANO by Epic Piano	https://stream.epic-piano.com/romantic-piano?ref=radiobrowser	0	classic
 Sonatica Classical Radio	http://orion.shoutca.st:8742/160	0	classical
 Opus 94 (Ciudad de México) - 94.5 FM	http://s2.mexside.net/8016/stream	0	classic
-0nlineradio VIVALDI	https://stream.0nlineradio.com/vivaldi?ref=radiobrowser	0	classic
+0nlineradio Vivaldi	https://stream.0nlineradio.com/vivaldi?ref=radiobrowser	0	classic
 Radio Caprice - Opera	http://79.120.39.202:8000/opera	0	classical
 Classical King FM - Evergreen Channel	https://classicalking.streamguys1.com/evergreen-aac-128k	0	classical
-Classic Radio Ukraine	https://online.classicradio.com.ua/ClassicRadio	0	classic
 Radio Art - Antonio Vivaldi	http://air.radioart.com/fVivaldi.mp3	0	classical
 Radio Nacional de España - Radio Clasica	https://f141.rndfnk.com/star/crtve/rnerc/main/mp3/128/stream.mp3?cid=01GEM633TKTAHEB3GYTNAEZB90&sid=2OeEj3cbhDQiZQY1d3kTqQyea1Y&token=cHn_jT-26Z0rPqXMo0QMJUWS-2ZjHiwAiKVk3Y_JrX4&tvf=IU7TAmhuVxdmMTQxLnJuZGZuay5jb20	0	classical music
-Classic1027	http://edge.iono.fm/xice/49_high.aac	0	classical music
-EPIC CLASSICAL - Classical Background Music	https://stream.epic-classical.com/classical-background-music	0	chill
+Classic 102.7	http://edge.iono.fm/xice/49_high.aac	0	classical music
+Epic Classical - Classical Background Music	https://stream.epic-classical.com/classical-background-music	0	chill
 1000 HITS Classical	https://ais-sa2.cdnstream1.com/2208_128.mp3	0	classical
-EPIC CLASSICAL - Classical Chillout	https://stream.epic-classical.com/classical-chillout?ref=liveradio	0	ambient
-EPIC CLASSICAL - Classical Romance	https://stream.epic-classical.com/classical-romance	0	chillout
-RNZ Concert AAC	http://radionz-ice.streamguys.com/Concert_aac128	0	classical
+Epic Classical - Classical Chillout	https://stream.epic-classical.com/classical-chillout?ref=liveradio	0	ambient
+Epic Classical  - Classical Romantic	https://stream.epic-classical.com/classical-romance	0	chillout
+RNZ Concert	http://radionz-ice.streamguys.com/Concert_aac128	0	classical
 Radio Art - Baroque	http://air.radioart.com/fBaroque.mp3	0	baroque
 Radio Caprice - Chamber Classical	http://213.141.131.10:8000/chamber	0	chamber
-EPIC CLASSICAL - Classical Hotel Lounge	https://stream.epic-classical.com/classical-hotel-lounge	0	ambient
+Epic Classical  - Classical Hotel Lounge	https://stream.epic-classical.com/classical-hotel-lounge	0	ambient
 Filarmonía 102.7 MHz FM, Lima	https://c22.radioboss.fm:18100/live	0	classical music
-100 GREATEST CLASSICAL MUSIC	https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3	0	bach
+100 Greatest Classical Music	https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3	0	bach
 Радио Classic	https://radio-streams.kaztrk.kz/classic/classic/icecast.audio	0	classical music
-MPR Classical 24/7	https://cms.stream.publicradio.org/cms.mp3	0	classical baroque
-EBS | Classical	https://azura.ebsmedia.ro/listen/classical/classical128.mp3	0	classical music
+MPR Classical	https://cms.stream.publicradio.org/cms.mp3	0	classical baroque
+EBS  Classical	https://azura.ebsmedia.ro/listen/classical/classical128.mp3	0	classical music
 - 0 N - Movies on Radio	https://0n-movies.radionetz.de/0n-movies.mp3	0	classical
 Filmradio	https://filmradio.stream.laut.fm/filmradio?t302=2018-03-10_04-44-05&uuid=59ca68e0-84a4-492d-9b0b-36c45690cd59	0	film music
 Classic FM Movies	https://media-ice.musicradio.com/ClassicFMMoviesMP3	0	classical
 Allzic Radio Disney	http://allzic52.ice.infomaniak.ch/allzic52.mp3	0	children
 Heart Musicals	https://media-ice.musicradio.com/HeartMusicalsMP3	0	movies
 Love Radio - Movies	https://drive.uber.radio/uber/lrmovies/icecast.audio	0	movie
-🎥 ues 🎬	https://listen.radionomy.com/unleashingepicsoundtracks	0	epic
 Onic Movies	https://live.onic.ie/stream-movies?_=55552	0	movie scores
-Radio Swiss Classic German	http://stream.srg-ssr.ch/m/rsc_de/mp3_128	0	classical
-KLASSIK 1	http://icepool.silvacast.com/KLASSIK1.mp3	0	classical
+Radio Swiss Classic	http://stream.srg-ssr.ch/m/rsc_de/mp3_128	0	classical
+Klassik 1	http://icepool.silvacast.com/KLASSIK1.mp3	0	classical
 Concertzender Oude Muziek	http://streams.greenhost.nl:8080/oudemuziek	0	baroque
 Polskie Radio Chopin	http://stream3.polskieradio.pl:8910/;	0	chopin
+1.FM - Movie Soundtrack	http://strm112.1.fm/moviesoundtracks_mobile_mp3	0	movie soundtracks
+FFH Soundtracks	https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac	0	classical
+Hearme Movie Soundtracks Radio	https://radio.hearme.fm:8074/stream	0	soundtracks
+StreamingSoundtracks.com	http://hi5.streamingsoundtracks.com/;	0	
+Classic Videogames RADIO	http://195.201.9.210:1541/stream/2/	0	electronic
+Liquid DOS Games Radio	http://liquiddoom.net:8000/dos	0	electronic
